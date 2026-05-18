@@ -1,8 +1,7 @@
 
 //javascript
    // Puja Jathar - 05/17/2026
-   // This code prints the "Hello world!" and numbers from 0 to 9 and does not print results of multiplication
-   //by 2. 
+   // This code prints the "Hello world!" and numbers from 0 to 9, along with their results of multiplied by 2.
 
 console.log("Hello world!");
 console.log("Numbers: ");
